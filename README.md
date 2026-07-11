@@ -69,7 +69,8 @@ CCNA-Cheat-Sheets
 🖼 Preview
 
 <p align="center">
-<img src="Images/preview.png" width="90%">
+<img src="/Screenshot 2026-07-11 215548.png" width="90%">
+<img src="/Screenshot 2026-07-11 215619.png" width="90%">
 </p>---
 
 📚 Topics Covered
