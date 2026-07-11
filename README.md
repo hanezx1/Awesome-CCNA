@@ -32,7 +32,8 @@ The goal is to provide a fast and organized reference for students, beginners, a
 🖼 Preview
 
 <p align="center">
-<img src="Images/preview.png" width="90%">
+<img src="/Screenshot 2026-07-11 215548.png" width="90%">
+<img src="/Screenshot 2026-07-11 215619.png" width="90%">
 </p>---
 
 📚 Topics Covered
